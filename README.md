@@ -2,7 +2,9 @@
 cleaning using Microsoft power BI to prepare the data for summarization to elucidate
 
 ### summarizing and elucidating the pricing Data and getting insights from it
-* Cleaned the data with Power BI
+1. Cleaned the data with Power BI power query
+2. Loaded the cleaned data to the report view in Power BI
+3. Created a Visualization to interpret the insights from the data 
 
 
 
